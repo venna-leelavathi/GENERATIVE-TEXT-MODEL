@@ -44,5 +44,6 @@ Upon completion of this internship project, the student will receive a completio
 
 OUTPUT:
 
+<img width="1075" height="229" alt="Image" src="https://github.com/user-attachments/assets/cc8c81b6-e790-41a2-822e-8bd0d38068c2" />
 
 
