@@ -44,10 +44,5 @@ Upon completion of this internship project, the student will receive a completio
 
 OUTPUT:
 
-Prompt:
- The impact of artificial intelligence on future jobs
-
-Generated Text:
- The impact of artificial intelligence on future jobs is both promising and concerning. While AI can automate repetitive tasks, reduce human error, and improve productivity, it also threatens to displace certain types of work, particularly those involving routine operations. Industries like manufacturing, logistics, and customer service are already seeing the effects...
 
 
